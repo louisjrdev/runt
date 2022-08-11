@@ -1,0 +1,6 @@
+{
+	"tasks": {
+		"test": "echo \"Hello World!\"",
+		"test2": ["ping google.com -c 5", "echo \"Hello World2!\""]
+	}
+}

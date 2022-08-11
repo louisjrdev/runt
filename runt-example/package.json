@@ -1,0 +1,14 @@
+{
+	"name": "runt-example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "runt test"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"runt": "file:../runt"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"name": "runt",
+	"version": "0.0.1",
+	"description": "A simple task runner",
+	"main": "index.js",
+	"type": "module",
+	"bin": {
+		"runt": "./bin.js"
+	},
+	"files": [
+		"./bin.js",
+		"./index.js"
+	],
+	"author": "louisjrdev",
+	"license": "MIT",
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"meow": "^10.1.3"
+	}
+}
